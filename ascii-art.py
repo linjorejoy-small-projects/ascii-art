@@ -24,7 +24,7 @@ def listToString(s):
 
     str1 = ""  
     for ele in s:  
-        str1 += ele   
+        str1 += str(ele)   
     return str1  
 
 
@@ -38,13 +38,13 @@ def appendToFile(fileName, array):
 def get_symbol(value):
     if((value-5) == 0):
         return PIXEL_ARRAY[0]
-    return PIXEL_ARRAY[(value-6)//math.floor(RANGE)]
+    return str(PIXEL_ARRAY[(value-6)//math.floor(RANGE)])
 
 
 def main():
 
     pixeValues = get_image_pixels()
-    height = math.floor(pixeValues.shape[0]/ASCII_IMAGE_WIDTH)
+    height = math.floor(pixeValues.shape[0]*ASCII_IMAGE_WIDTH/pixeValues.shape[1])
     symbolArray = np.empty((height, ASCII_IMAGE_WIDTH), dtype='S')
 
     for i in range(height):
@@ -52,7 +52,7 @@ def main():
             yPos = math.floor(i*pixeValues.shape[0]/height)
             xPos = math.floor(j*pixeValues.shape[1]/ASCII_IMAGE_WIDTH)
             symbolArray[i,j] = get_symbol(pixeValues[yPos, xPos])
-    print(symbolArray)
+    print(symbolArray.shape)
 
     for i in range(height):
         appendToFile("ascii-art.txt", symbolArray[i].tolist())
