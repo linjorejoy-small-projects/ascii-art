@@ -1,0 +1,10 @@
+{
+  "3D-ASCII": {
+    "text": "ASCII text/text files/3D-ASCII.txt",
+    "json": "ASCII text/json files/3D-ASCII.json"
+  },
+  "BANNER": {
+    "text": "ASCII text/text files/banner.txt",
+    "json": "ASCII text/json files/banner.json"
+  }
+}
