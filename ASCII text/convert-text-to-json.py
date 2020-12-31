@@ -8,12 +8,17 @@ class Charecter:
         self.key = key
         self.value = value
         self.index = index
+        self.length = 0
+        self.rows = 0
 
     def __dict__(self):
+        
         return {
             "key" : self.key,
             "value" : self.value,
-            "index" : self.index
+            "index" : self.index,
+            "length": self.length,
+            "rows" : self.rows
         }
 
     def __str__(self):
@@ -62,7 +67,7 @@ if __name__ == "__main__":
         for k,v in file_names.items():
 
             # OPEN THE TEXT FILE IN READ MODE
-            with open(v['text'], mode='r') as text_file:
+            with open(v['text'], mode='r', encoding="utf8") as text_file:
 
                 # ALL LINES
                 all_of_it = text_file.read()
@@ -76,9 +81,14 @@ if __name__ == "__main__":
                 this_dictionary = dict() # TO STORE KEY AS ALPHABET AND VALUE AS THE STRING
 
                 # ITERATE THROUGH THE KEY VALUE PAIRS AND ADDING THEM TO DICTIONARY
+                index = 0
                 for key, value, char_obj in zip(alphabets, all_of_it_split, char_array):
                     this_dictionary[key] = value
+                    char_obj.index = index
                     char_obj.value = value
+                    char_obj.length = len(str(char_obj.value))
+                    char_obj.rows = str(char_obj.value).count("\n")
+                    index += 1
 
                 this_font = Font(char_array)
 
