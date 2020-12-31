@@ -1,7 +1,15 @@
 import json
 import re
+from .charecter import Charecter
+from .font import Font
 
-alphabets = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
+
+alphabets = []
+
+with open("ASCII text/charecters.json") as char_file:
+    chars = json.load(char_file)
+    
+    alphabets = chars['charecters']
 
 # LOAD FILE NAMES FROM JSON FILE
 with open("ASCII text/file-list.json") as file_list_json:
@@ -33,3 +41,6 @@ with open("ASCII text/file-list.json") as file_list_json:
                 json.dump(this_dictionary, json_file, indent = 4, sort_keys=True)
                 
 
+
+
+    
