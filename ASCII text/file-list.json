@@ -1,18 +1,22 @@
 {
   "3D-ASCII": {
     "text": "ASCII text/text files/3D-ASCII.txt",
-    "json": "ASCII text/json files/3D-ASCII.json"
+    "json": "ASCII text/json files/3D-ASCII.json",
+    "json-as-list": "ASCII text/json files as list/3D-ASCII List.json"
   },
   "BANNER": {
     "text": "ASCII text/text files/banner.txt",
-    "json": "ASCII text/json files/banner.json"
+    "json": "ASCII text/json files/banner.json",
+    "json-as-list": "ASCII text/json files as list/banner List.json"
   },
   "S-Blood": {
     "text": "ASCII text/text files/s-blood.txt",
-    "json": "ASCII text/json files/s-blood.json"
+    "json": "ASCII text/json files/s-blood.json",
+    "json-as-list": "ASCII text/json files as list/s-blood List.json"
   },
   "ANSI-SHADOW": {
     "text": "ASCII text/text files/ANSI-SHADOW.txt",
-    "json": "ASCII text/json files/ANSI-SHADOW.json"
+    "json": "ASCII text/json files/ANSI-SHADOW.json",
+    "json-as-list": "ASCII text/json files as list/ANSI-SHADOW List.json"
   }
 }

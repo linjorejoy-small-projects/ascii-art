@@ -1,366 +1,368 @@
 {
-    "A": {
-        "key": "A",
-        "value": "    #    \n   # #   \n  #   #  \n #     # \n ####### \n #     # \n #     # \n         ",
-        "index": 0,
-        "length": 79,
-        "rows": 7
-    },
-    "B": {
-        "key": "B",
-        "value": "    \n ######  \n #     # \n #     # \n ######  \n #     # \n #     # \n ######  \n         ",
-        "index": 1,
-        "length": 84,
-        "rows": 8
-    },
-    "C": {
-        "key": "C",
-        "value": "    \n  #####  \n #     # \n #       \n #       \n #       \n #     # \n  #####  \n         ",
-        "index": 2,
-        "length": 84,
-        "rows": 8
-    },
-    "D": {
-        "key": "D",
-        "value": "    \n ######  \n #     # \n #     # \n #     # \n #     # \n #     # \n ######  \n         ",
-        "index": 3,
-        "length": 84,
-        "rows": 8
-    },
-    "E": {
-        "key": "E",
-        "value": "    \n ####### \n #       \n #       \n #####   \n #       \n #       \n ####### \n         ",
-        "index": 4,
-        "length": 84,
-        "rows": 8
-    },
-    "F": {
-        "key": "F",
-        "value": "    \n ####### \n #       \n #       \n #####   \n #       \n #       \n #       \n         ",
-        "index": 5,
-        "length": 84,
-        "rows": 8
-    },
-    "G": {
-        "key": "G",
-        "value": "    \n  #####  \n #     # \n #       \n #  #### \n #     # \n #     # \n  #####  \n         ",
-        "index": 6,
-        "length": 84,
-        "rows": 8
-    },
-    "H": {
-        "key": "H",
-        "value": "    \n #     # \n #     # \n #     # \n ####### \n #     # \n #     # \n #     # \n         ",
-        "index": 7,
-        "length": 84,
-        "rows": 8
-    },
-    "I": {
-        "key": "I",
-        "value": "    \n ### \n  #  \n  #  \n  #  \n  #  \n  #  \n ### \n     ",
-        "index": 8,
-        "length": 52,
-        "rows": 8
-    },
-    "J": {
-        "key": "J",
-        "value": "    \n       # \n       # \n       # \n       # \n #     # \n #     # \n  #####  \n         ",
-        "index": 9,
-        "length": 84,
-        "rows": 8
-    },
-    "K": {
-        "key": "K",
-        "value": "    \n #    # \n #   #  \n #  #   \n ###    \n #  #   \n #   #  \n #    # \n        ",
-        "index": 10,
-        "length": 76,
-        "rows": 8
-    },
-    "L": {
-        "key": "L",
-        "value": "    \n #       \n #       \n #       \n #       \n #       \n #       \n ####### \n         ",
-        "index": 11,
-        "length": 84,
-        "rows": 8
-    },
-    "M": {
-        "key": "M",
-        "value": "    \n #     # \n ##   ## \n # # # # \n #  #  # \n #     # \n #     # \n #     # \n         ",
-        "index": 12,
-        "length": 84,
-        "rows": 8
-    },
-    "N": {
-        "key": "N",
-        "value": "    \n #     # \n ##    # \n # #   # \n #  #  # \n #   # # \n #    ## \n #     # \n         ",
-        "index": 13,
-        "length": 84,
-        "rows": 8
-    },
-    "O": {
-        "key": "O",
-        "value": "    \n ####### \n #     # \n #     # \n #     # \n #     # \n #     # \n ####### \n         ",
-        "index": 14,
-        "length": 84,
-        "rows": 8
-    },
-    "P": {
-        "key": "P",
-        "value": "    \n ######  \n #     # \n #     # \n ######  \n #       \n #       \n #       \n         ",
-        "index": 15,
-        "length": 84,
-        "rows": 8
-    },
-    "Q": {
-        "key": "Q",
-        "value": "    \n  #####  \n #     # \n #     # \n #     # \n #   # # \n #    #  \n  #### # \n         ",
-        "index": 16,
-        "length": 84,
-        "rows": 8
-    },
-    "R": {
-        "key": "R",
-        "value": "    \n ######  \n #     # \n #     # \n ######  \n #   #   \n #    #  \n #     # \n         ",
-        "index": 17,
-        "length": 84,
-        "rows": 8
-    },
-    "S": {
-        "key": "S",
-        "value": "    \n  #####  \n #     # \n #       \n  #####  \n       # \n #     # \n  #####  \n         ",
-        "index": 18,
-        "length": 84,
-        "rows": 8
-    },
-    "T": {
-        "key": "T",
-        "value": "    \n ####### \n    #    \n    #    \n    #    \n    #    \n    #    \n    #    \n         ",
-        "index": 19,
-        "length": 84,
-        "rows": 8
-    },
-    "U": {
-        "key": "U",
-        "value": "    \n #     # \n #     # \n #     # \n #     # \n #     # \n #     # \n  #####  \n         ",
-        "index": 20,
-        "length": 84,
-        "rows": 8
-    },
-    "V": {
-        "key": "V",
-        "value": "    \n #     # \n #     # \n #     # \n #     # \n  #   #  \n   # #   \n    #    \n         ",
-        "index": 21,
-        "length": 84,
-        "rows": 8
-    },
-    "W": {
-        "key": "W",
-        "value": "    \n #     # \n #  #  # \n #  #  # \n #  #  # \n #  #  # \n #  #  # \n  ## ##  \n         ",
-        "index": 22,
-        "length": 84,
-        "rows": 8
-    },
-    "X": {
-        "key": "X",
-        "value": "    \n #     # \n  #   #  \n   # #   \n    #    \n   # #   \n  #   #  \n #     # \n         ",
-        "index": 23,
-        "length": 84,
-        "rows": 8
-    },
-    "Y": {
-        "key": "Y",
-        "value": "    \n #     # \n  #   #  \n   # #   \n    #    \n    #    \n    #    \n    #    \n         ",
-        "index": 24,
-        "length": 84,
-        "rows": 8
-    },
-    "Z": {
-        "key": "Z",
-        "value": "    \n ####### \n      #  \n     #   \n    #    \n   #     \n  #      \n ####### \n         ",
-        "index": 25,
-        "length": 84,
-        "rows": 8
-    },
-    "a": {
-        "key": "a",
-        "value": "    \n   ##   \n  #  #  \n #    # \n ###### \n #    # \n #    # \n        ",
-        "index": 26,
-        "length": 67,
-        "rows": 7
-    },
-    "b": {
-        "key": "b",
-        "value": "    \n #####  \n #    # \n #####  \n #    # \n #    # \n #####  \n        ",
-        "index": 27,
-        "length": 67,
-        "rows": 7
-    },
-    "c": {
-        "key": "c",
-        "value": "    \n  ####  \n #    # \n #      \n #      \n #    # \n  ####  \n        ",
-        "index": 28,
-        "length": 67,
-        "rows": 7
-    },
-    "d": {
-        "key": "d",
-        "value": "    \n #####  \n #    # \n #    # \n #    # \n #    # \n #####  \n        ",
-        "index": 29,
-        "length": 67,
-        "rows": 7
-    },
-    "e": {
-        "key": "e",
-        "value": "    \n ###### \n #      \n #####  \n #      \n #      \n ###### \n        ",
-        "index": 30,
-        "length": 67,
-        "rows": 7
-    },
-    "f": {
-        "key": "f",
-        "value": "    \n ###### \n #      \n #####  \n #      \n #      \n #      \n        ",
-        "index": 31,
-        "length": 67,
-        "rows": 7
-    },
-    "g": {
-        "key": "g",
-        "value": "    \n  ####  \n #    # \n #      \n #  ### \n #    # \n  ####  \n        ",
-        "index": 32,
-        "length": 67,
-        "rows": 7
-    },
-    "h": {
-        "key": "h",
-        "value": "    \n #    # \n #    # \n ###### \n #    # \n #    # \n #    # \n        ",
-        "index": 33,
-        "length": 67,
-        "rows": 7
-    },
-    "i": {
-        "key": "i",
-        "value": "    \n # \n # \n # \n # \n # \n # \n   ",
-        "index": 34,
-        "length": 32,
-        "rows": 7
-    },
-    "j": {
-        "key": "j",
-        "value": "    \n      # \n      # \n      # \n      # \n #    # \n  ####  \n        ",
-        "index": 35,
-        "length": 67,
-        "rows": 7
-    },
-    "k": {
-        "key": "k",
-        "value": "    \n #    # \n #   #  \n ####   \n #  #   \n #   #  \n #    # \n        ",
-        "index": 36,
-        "length": 67,
-        "rows": 7
-    },
-    "l": {
-        "key": "l",
-        "value": "    \n #      \n #      \n #      \n #      \n #      \n ###### \n        ",
-        "index": 37,
-        "length": 67,
-        "rows": 7
-    },
-    "m": {
-        "key": "m",
-        "value": "    \n #    # \n ##  ## \n # ## # \n #    # \n #    # \n #    # \n        ",
-        "index": 38,
-        "length": 67,
-        "rows": 7
-    },
-    "n": {
-        "key": "n",
-        "value": "    \n #    # \n ##   # \n # #  # \n #  # # \n #   ## \n #    # \n        ",
-        "index": 39,
-        "length": 67,
-        "rows": 7
-    },
-    "o": {
-        "key": "o",
-        "value": "    \n  ####  \n #    # \n #    # \n #    # \n #    # \n  ####  \n        ",
-        "index": 40,
-        "length": 67,
-        "rows": 7
-    },
-    "p": {
-        "key": "p",
-        "value": "    \n #####  \n #    # \n #    # \n #####  \n #      \n #      \n        ",
-        "index": 41,
-        "length": 67,
-        "rows": 7
-    },
-    "q": {
-        "key": "q",
-        "value": "    \n  ####  \n #    # \n #    # \n #  # # \n #   #  \n  ### # \n        ",
-        "index": 42,
-        "length": 67,
-        "rows": 7
-    },
-    "r": {
-        "key": "r",
-        "value": "    \n #####  \n #    # \n #    # \n #####  \n #   #  \n #    # \n        ",
-        "index": 43,
-        "length": 67,
-        "rows": 7
-    },
-    "s": {
-        "key": "s",
-        "value": "    \n  ####  \n #      \n  ####  \n      # \n #    # \n  ####  \n        ",
-        "index": 44,
-        "length": 67,
-        "rows": 7
-    },
-    "t": {
-        "key": "t",
-        "value": "    \n ##### \n   #   \n   #   \n   #   \n   #   \n   #   \n       ",
-        "index": 45,
-        "length": 60,
-        "rows": 7
-    },
-    "u": {
-        "key": "u",
-        "value": "    \n #    # \n #    # \n #    # \n #    # \n #    # \n  ####  \n        ",
-        "index": 46,
-        "length": 67,
-        "rows": 7
-    },
-    "v": {
-        "key": "v",
-        "value": "    \n #    # \n #    # \n #    # \n #    # \n  #  #  \n   ##   \n        ",
-        "index": 47,
-        "length": 67,
-        "rows": 7
-    },
-    "w": {
-        "key": "w",
-        "value": "    \n #    # \n #    # \n #    # \n # ## # \n ##  ## \n #    # \n        ",
-        "index": 48,
-        "length": 67,
-        "rows": 7
-    },
-    "x": {
-        "key": "x",
-        "value": "    \n #    # \n  #  #  \n   ##   \n   ##   \n  #  #  \n #    # \n        ",
-        "index": 49,
-        "length": 67,
-        "rows": 7
-    },
-    "y": {
-        "key": "y",
-        "value": "    \n #   # \n  # #  \n   #   \n   #   \n   #   \n   #   \n       ",
-        "index": 50,
-        "length": 60,
-        "rows": 7
-    },
-    "z": {
-        "key": "z",
-        "value": "    \n ###### \n     #  \n    #   \n   #    \n  #     \n ###### \n        \n",
-        "index": 51,
-        "length": 68,
-        "rows": 8
-    }
+    "char_array": [
+        {
+            "key": "A",
+            "value": "    #    \n   # #   \n  #   #  \n #     # \n ####### \n #     # \n #     # \n         ",
+            "index": 0,
+            "length": 79,
+            "rows": 7
+        },
+        {
+            "key": "B",
+            "value": "    \n ######  \n #     # \n #     # \n ######  \n #     # \n #     # \n ######  \n         ",
+            "index": 1,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "C",
+            "value": "    \n  #####  \n #     # \n #       \n #       \n #       \n #     # \n  #####  \n         ",
+            "index": 2,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "D",
+            "value": "    \n ######  \n #     # \n #     # \n #     # \n #     # \n #     # \n ######  \n         ",
+            "index": 3,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "E",
+            "value": "    \n ####### \n #       \n #       \n #####   \n #       \n #       \n ####### \n         ",
+            "index": 4,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "F",
+            "value": "    \n ####### \n #       \n #       \n #####   \n #       \n #       \n #       \n         ",
+            "index": 5,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "G",
+            "value": "    \n  #####  \n #     # \n #       \n #  #### \n #     # \n #     # \n  #####  \n         ",
+            "index": 6,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "H",
+            "value": "    \n #     # \n #     # \n #     # \n ####### \n #     # \n #     # \n #     # \n         ",
+            "index": 7,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "I",
+            "value": "    \n ### \n  #  \n  #  \n  #  \n  #  \n  #  \n ### \n     ",
+            "index": 8,
+            "length": 52,
+            "rows": 8
+        },
+        {
+            "key": "J",
+            "value": "    \n       # \n       # \n       # \n       # \n #     # \n #     # \n  #####  \n         ",
+            "index": 9,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "K",
+            "value": "    \n #    # \n #   #  \n #  #   \n ###    \n #  #   \n #   #  \n #    # \n        ",
+            "index": 10,
+            "length": 76,
+            "rows": 8
+        },
+        {
+            "key": "L",
+            "value": "    \n #       \n #       \n #       \n #       \n #       \n #       \n ####### \n         ",
+            "index": 11,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "M",
+            "value": "    \n #     # \n ##   ## \n # # # # \n #  #  # \n #     # \n #     # \n #     # \n         ",
+            "index": 12,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "N",
+            "value": "    \n #     # \n ##    # \n # #   # \n #  #  # \n #   # # \n #    ## \n #     # \n         ",
+            "index": 13,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "O",
+            "value": "    \n ####### \n #     # \n #     # \n #     # \n #     # \n #     # \n ####### \n         ",
+            "index": 14,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "P",
+            "value": "    \n ######  \n #     # \n #     # \n ######  \n #       \n #       \n #       \n         ",
+            "index": 15,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "Q",
+            "value": "    \n  #####  \n #     # \n #     # \n #     # \n #   # # \n #    #  \n  #### # \n         ",
+            "index": 16,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "R",
+            "value": "    \n ######  \n #     # \n #     # \n ######  \n #   #   \n #    #  \n #     # \n         ",
+            "index": 17,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "S",
+            "value": "    \n  #####  \n #     # \n #       \n  #####  \n       # \n #     # \n  #####  \n         ",
+            "index": 18,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "T",
+            "value": "    \n ####### \n    #    \n    #    \n    #    \n    #    \n    #    \n    #    \n         ",
+            "index": 19,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "U",
+            "value": "    \n #     # \n #     # \n #     # \n #     # \n #     # \n #     # \n  #####  \n         ",
+            "index": 20,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "V",
+            "value": "    \n #     # \n #     # \n #     # \n #     # \n  #   #  \n   # #   \n    #    \n         ",
+            "index": 21,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "W",
+            "value": "    \n #     # \n #  #  # \n #  #  # \n #  #  # \n #  #  # \n #  #  # \n  ## ##  \n         ",
+            "index": 22,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "X",
+            "value": "    \n #     # \n  #   #  \n   # #   \n    #    \n   # #   \n  #   #  \n #     # \n         ",
+            "index": 23,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "Y",
+            "value": "    \n #     # \n  #   #  \n   # #   \n    #    \n    #    \n    #    \n    #    \n         ",
+            "index": 24,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "Z",
+            "value": "    \n ####### \n      #  \n     #   \n    #    \n   #     \n  #      \n ####### \n         ",
+            "index": 25,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "a",
+            "value": "    \n   ##   \n  #  #  \n #    # \n ###### \n #    # \n #    # \n        ",
+            "index": 26,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "b",
+            "value": "    \n #####  \n #    # \n #####  \n #    # \n #    # \n #####  \n        ",
+            "index": 27,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "c",
+            "value": "    \n  ####  \n #    # \n #      \n #      \n #    # \n  ####  \n        ",
+            "index": 28,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "d",
+            "value": "    \n #####  \n #    # \n #    # \n #    # \n #    # \n #####  \n        ",
+            "index": 29,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "e",
+            "value": "    \n ###### \n #      \n #####  \n #      \n #      \n ###### \n        ",
+            "index": 30,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "f",
+            "value": "    \n ###### \n #      \n #####  \n #      \n #      \n #      \n        ",
+            "index": 31,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "g",
+            "value": "    \n  ####  \n #    # \n #      \n #  ### \n #    # \n  ####  \n        ",
+            "index": 32,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "h",
+            "value": "    \n #    # \n #    # \n ###### \n #    # \n #    # \n #    # \n        ",
+            "index": 33,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "i",
+            "value": "    \n # \n # \n # \n # \n # \n # \n   ",
+            "index": 34,
+            "length": 32,
+            "rows": 7
+        },
+        {
+            "key": "j",
+            "value": "    \n      # \n      # \n      # \n      # \n #    # \n  ####  \n        ",
+            "index": 35,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "k",
+            "value": "    \n #    # \n #   #  \n ####   \n #  #   \n #   #  \n #    # \n        ",
+            "index": 36,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "l",
+            "value": "    \n #      \n #      \n #      \n #      \n #      \n ###### \n        ",
+            "index": 37,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "m",
+            "value": "    \n #    # \n ##  ## \n # ## # \n #    # \n #    # \n #    # \n        ",
+            "index": 38,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "n",
+            "value": "    \n #    # \n ##   # \n # #  # \n #  # # \n #   ## \n #    # \n        ",
+            "index": 39,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "o",
+            "value": "    \n  ####  \n #    # \n #    # \n #    # \n #    # \n  ####  \n        ",
+            "index": 40,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "p",
+            "value": "    \n #####  \n #    # \n #    # \n #####  \n #      \n #      \n        ",
+            "index": 41,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "q",
+            "value": "    \n  ####  \n #    # \n #    # \n #  # # \n #   #  \n  ### # \n        ",
+            "index": 42,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "r",
+            "value": "    \n #####  \n #    # \n #    # \n #####  \n #   #  \n #    # \n        ",
+            "index": 43,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "s",
+            "value": "    \n  ####  \n #      \n  ####  \n      # \n #    # \n  ####  \n        ",
+            "index": 44,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "t",
+            "value": "    \n ##### \n   #   \n   #   \n   #   \n   #   \n   #   \n       ",
+            "index": 45,
+            "length": 60,
+            "rows": 7
+        },
+        {
+            "key": "u",
+            "value": "    \n #    # \n #    # \n #    # \n #    # \n #    # \n  ####  \n        ",
+            "index": 46,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "v",
+            "value": "    \n #    # \n #    # \n #    # \n #    # \n  #  #  \n   ##   \n        ",
+            "index": 47,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "w",
+            "value": "    \n #    # \n #    # \n #    # \n # ## # \n ##  ## \n #    # \n        ",
+            "index": 48,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "x",
+            "value": "    \n #    # \n  #  #  \n   ##   \n   ##   \n  #  #  \n #    # \n        ",
+            "index": 49,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "y",
+            "value": "    \n #   # \n  # #  \n   #   \n   #   \n   #   \n   #   \n       ",
+            "index": 50,
+            "length": 60,
+            "rows": 7
+        },
+        {
+            "key": "z",
+            "value": "    \n ###### \n     #  \n    #   \n   #    \n  #     \n ###### \n        \n",
+            "index": 51,
+            "length": 68,
+            "rows": 8
+        }
+    ]
 }

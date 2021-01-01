@@ -1,6 +1,6 @@
 import json
 import re
-
+from typing import List
 
 class Charecter:
     """
@@ -14,7 +14,7 @@ class Charecter:
         self.length = 0
         self.rows = 0
 
-    def __dict__(self):
+    def dictionary(self):
         
         return {
             "key" : self.key,
@@ -28,13 +28,21 @@ class Charecter:
         return str(self.__dict__())
 
 
+class CharecterEncoder(json.JSONEncoder):
+    def default(self, o):
+        if isinstance(o, Charecter):
+            return o.__dict__
+
+        return super().default(o)
+
+
 
 class Font:
 
-    def __init__(self,char_array=None):
+    def __init__(self,char_array : List[Charecter] ):
         self.char_array = char_array
 
-    def __dict__(self):
+    def dictionary(self):
         dictionary = dict()
         for char in self.char_array:
             dictionary[char.key] = char.__dict__()
@@ -44,7 +52,12 @@ class Font:
         return str(self.__dict__())
 
 
+class FontEncoder(json.JSONEncoder):
+    def default(self, o):
+        if isinstance(o, Font):
+            return o.__dict__
 
+        return super().default(o)
 
 if __name__ == "__main__":        
 
@@ -95,10 +108,20 @@ if __name__ == "__main__":
 
                 this_font = Font(char_array)
 
-                # WRITING THE CREATED DICTIONARY TO A JSON FILE
+                # WRITING THE CREATED DICTIONARY TO A JSON FILE AND  STORE AS LIST
                 with open(v['json'],'w') as json_file:
-                    pass
-                    json.dump(this_font.__dict__(), json_file, indent = 4,)
+                    json_data = json.dumps(this_font.__dict__, default= lambda o: o.__dict__, indent=4)
+                    json.dump(this_font.__dict__, default= lambda o: o.__dict__, indent=4,fp=json_file)
+
+
+                # # WRITING THE JSON FONT OBJECT TO JSON FILE
+                # with open(v['json-as-list'],'w') as json_file:
+                #     # json_data = json.dumps(this_font.__dict__, default= lambda o: o.__dict__, indent=4)
+                #     json_string = FontEncoder().encode(this_font)
+                #     print(json_string)
+                #     # print(json_data)
+                #     # json.dump(this_font.__dict__, default= lambda o: o.__dict__, indent=4,fp=json_file)
+                #     # json.dump(this_font.__dict__, json_file, indent = 4,)
                     
 
         
