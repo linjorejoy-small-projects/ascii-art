@@ -31,7 +31,8 @@ class Charecter:
 
 class Font:
 
-    def __init__(self,char_array : List[Charecter] ):
+    def __init__(self, font_name, char_array : List[Charecter] ):
+        self.font_name = font_name
         self.char_array = char_array
 
     def dictionary(self):
@@ -46,11 +47,12 @@ class Font:
 
 if __name__ == "__main__":        
 
+    # Initialize empty array for storing alphabets and storing list of Charecter Objects 
     alphabets = []
     char_array = []
 
 
-
+    # Get all Charecters from a json file
     with open("ASCII text/charecters.json") as char_file:
         chars = json.load(char_file)
 
@@ -91,7 +93,7 @@ if __name__ == "__main__":
                     char_obj.rows = str(char_obj.value).count("\n")
                     index += 1
 
-                this_font = Font(char_array)
+                this_font = Font(k, char_array)
 
                 # WRITING THE CREATED DICTIONARY TO A JSON FILE AND  STORE AS LIST
                 with open(v['json-as-list'],'w') as json_file:
