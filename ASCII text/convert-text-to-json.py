@@ -3,6 +3,9 @@ import re
 
 
 class Charecter:
+    """
+        To Store details of a charecter
+    """
 
     def __init__(self, key, value=None, index=-1):
         self.key = key

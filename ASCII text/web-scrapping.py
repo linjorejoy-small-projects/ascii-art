@@ -1,5 +1,6 @@
-# from selenium import webdriver
-# from BeautifulSoup import BeautifulSoup
+from selenium import webdriver
+# from bs4 import BeautifulSoup
+
 
 import sys
 
