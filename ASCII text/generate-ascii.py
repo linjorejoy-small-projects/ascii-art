@@ -9,17 +9,17 @@ if __name__ == "__main__":
 
         json_file = json.load(file_list)
         [options.append(font) for font in json_file.keys()]
-    print(json_file)
 
     font_index = 0
     font_style = ''
+
     while(True):
         print("\n\nFonts Present")
         print("-"*10)
         [print(i, " : ", options[i]) for i in range(len(options))]
-        font_index = int(input("\n\nSelect The Font : "))
         
         try:
+            font_index = int(input("\n\nSelect The Font : "))
             font_style = options[font_index]
             break
         except Exception as r:
@@ -31,10 +31,8 @@ if __name__ == "__main__":
 
     text = input("Write your text : ")
 
-    print("\n\nCopy from here")
+    print("\n\nCopy from here\n")
 
-    print("\n```")
-    
+    print("\n```")    
     print("\n".join([json_font[char]['value'] for char in text]))
-
     print("```")

@@ -360,10 +360,206 @@
         },
         {
             "key": "z",
-            "value": "    \n ###### \n     #  \n    #   \n   #    \n  #     \n ###### \n        \n",
+            "value": "    \n ###### \n     #  \n    #   \n   #    \n  #     \n ###### \n        ",
             "index": 51,
+            "length": 67,
+            "rows": 7
+        },
+        {
+            "key": "1",
+            "value": "    \n   #   \n  ##   \n # #   \n   #   \n   #   \n   #   \n ##### \n       ",
+            "index": 52,
             "length": 68,
             "rows": 8
+        },
+        {
+            "key": "2",
+            "value": "    \n  #####  \n #     # \n       # \n  #####  \n #       \n #       \n ####### \n         ",
+            "index": 53,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "3",
+            "value": "    \n  #####  \n #     # \n       # \n  #####  \n       # \n #     # \n  #####  \n         ",
+            "index": 54,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "4",
+            "value": "    \n #       \n #    #  \n #    #  \n #    #  \n ####### \n      #  \n      #  \n         ",
+            "index": 55,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "5",
+            "value": "    \n ####### \n #       \n #       \n ######  \n       # \n #     # \n  #####  \n         ",
+            "index": 56,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "6",
+            "value": "    \n  #####  \n #     # \n #       \n ######  \n #     # \n #     # \n  #####  \n         ",
+            "index": 57,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "7",
+            "value": "    \n ####### \n #    #  \n     #   \n    #    \n   #     \n   #     \n   #     \n         ",
+            "index": 58,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "8",
+            "value": "    \n  #####  \n #     # \n #     # \n  #####  \n #     # \n #     # \n  #####  \n         ",
+            "index": 59,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "9",
+            "value": "    \n  #####  \n #     # \n #     # \n  ###### \n       # \n #     # \n  #####  \n         ",
+            "index": 60,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "0",
+            "value": "    \n   ###   \n  #   #  \n #     # \n #     # \n #     # \n  #   #  \n   ###   \n         ",
+            "index": 61,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "!",
+            "value": "    \n ### \n ### \n ### \n  #  \n ### \n ### \n     ",
+            "index": 62,
+            "length": 46,
+            "rows": 7
+        },
+        {
+            "key": "#",
+            "value": "    \n  #####  \n #     # \n # ### # \n # ### # \n # ####  \n #       \n  #####  \n         ",
+            "index": 63,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "$",
+            "value": "    \n   # #   \n   # #   \n ####### \n   # #   \n ####### \n   # #   \n   # #   \n         ",
+            "index": 64,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "%",
+            "value": "    \n  #####  \n #  #  # \n #  #    \n  #####  \n    #  # \n #  #  # \n  #####  \n         ",
+            "index": 65,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "^",
+            "value": "    \n ###   # \n # #  #  \n ### #   \n    #    \n   # ### \n  #  # # \n #   ### \n         ",
+            "index": 66,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "&",
+            "value": "    \n   #   \n  # #  \n #   # \n       ",
+            "index": 67,
+            "length": 36,
+            "rows": 4
+        },
+        {
+            "key": "*",
+            "value": "    \n   ##    \n  #  #   \n   ##    \n  ###    \n #   # # \n #    #  \n  ###  # \n         ",
+            "index": 68,
+            "length": 84,
+            "rows": 8
+        },
+        {
+            "key": "[",
+            "value": "    \n  #   #  \n   # #   \n ####### \n   # #   \n  #   #  \n         ",
+            "index": 69,
+            "length": 64,
+            "rows": 6
+        },
+        {
+            "key": "]",
+            "value": "    \n   ## \n  #   \n #    \n #    \n #    \n  #   \n   ## \n      ",
+            "index": 70,
+            "length": 60,
+            "rows": 8
+        },
+        {
+            "key": ":",
+            "value": "    \n ##   \n   #  \n    # \n    # \n    # \n   #  \n ##   \n      ",
+            "index": 71,
+            "length": 60,
+            "rows": 8
+        },
+        {
+            "key": ";",
+            "value": "    \n ##### \n #     \n #     \n #     \n #     \n #     \n ##### \n       ",
+            "index": 72,
+            "length": 68,
+            "rows": 8
+        },
+        {
+            "key": "<",
+            "value": "    \n ##### \n     # \n     # \n     # \n     # \n     # \n ##### \n       ",
+            "index": 73,
+            "length": 68,
+            "rows": 8
+        },
+        {
+            "key": ">",
+            "value": "    \n   ### \n  #    \n  #    \n ##    \n  #    \n  #    \n   ### \n       ",
+            "index": 74,
+            "length": 68,
+            "rows": 8
+        },
+        {
+            "key": "?",
+            "value": "    \n ###   \n    #  \n    #  \n    ## \n    #  \n    #  \n ###   \n       ",
+            "index": 75,
+            "length": 68,
+            "rows": 8
+        },
+        {
+            "key": ",",
+            "value": "    \n  #  \n ### \n  #  \n  #  \n ### \n  #  \n     ",
+            "index": 76,
+            "length": 46,
+            "rows": 7
+        },
+        {
+            "key": ".",
+            "value": "    \n ### ### \n ### ### \n  #   #  \n         ",
+            "index": 77,
+            "length": 44,
+            "rows": 4
+        },
+        {
+            "key": "/",
+            "value": "    \n ### \n ### \n ### \n ### \n  #  \n #   ",
+            "index": 78,
+            "length": 40,
+            "rows": 6
+        },
+        {
+            "key": "-",
+            "value": "    \n ### \n ### \n  #  \n #   \n     ",
+            "index": 79,
+            "length": 34,
+            "rows": 5
         }
     ]
 }

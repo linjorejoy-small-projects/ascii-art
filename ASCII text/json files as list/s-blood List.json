@@ -364,6 +364,202 @@
             "index": 51,
             "length": 65,
             "rows": 6
+        },
+        {
+            "key": "1",
+            "value": "     \n  @@@\n  @@@\n  !@!\n  !!!\n  :  \n     ",
+            "index": 52,
+            "length": 41,
+            "rows": 6
+        },
+        {
+            "key": "2",
+            "value": "     \n  @@@@@@ \n @@   @@@\n   .!!@! \n  !!:    \n :.:: :::\n         ",
+            "index": 53,
+            "length": 65,
+            "rows": 6
+        },
+        {
+            "key": "3",
+            "value": "     \n @@@@@@ \n     @@!\n  @!!!: \n     !!:\n ::: :: \n        ",
+            "index": 54,
+            "length": 59,
+            "rows": 6
+        },
+        {
+            "key": "4",
+            "value": "     \n @@@  @@@\n @@!  @@@\n @!@!@!@!\n      !!!\n      : :\n         ",
+            "index": 55,
+            "length": 65,
+            "rows": 6
+        },
+        {
+            "key": "5",
+            "value": "     \n @@@@@@@\n !@@    \n !!@@!! \n     !:!\n :: : : \n        ",
+            "index": 56,
+            "length": 59,
+            "rows": 6
+        },
+        {
+            "key": "6",
+            "value": "     \n   @@@@@ \n @@!@    \n @!@!@!@ \n !!:  !!!\n  : : :: \n         ",
+            "index": 57,
+            "length": 65,
+            "rows": 6
+        },
+        {
+            "key": "7",
+            "value": "     \n @@@@@@@@\n      @@!\n     @!! \n  .!!:   \n : :     \n         ",
+            "index": 58,
+            "length": 65,
+            "rows": 6
+        },
+        {
+            "key": "8",
+            "value": "     \n  @@@@@@ \n @@!  @@@\n  !@!@!@ \n !!:  !!!\n  :.:: : \n         ",
+            "index": 59,
+            "length": 65,
+            "rows": 6
+        },
+        {
+            "key": "9",
+            "value": "     \n  @@@@@@ \n @@!  @@@\n  @!@@!@!\n      !!:\n  : :::  \n         ",
+            "index": 60,
+            "length": 65,
+            "rows": 6
+        },
+        {
+            "key": "0",
+            "value": "     \n  @@@@@@ \n @@!  @@@\n @!@  !@!\n !!:  !!!\n  : : :: \n         ",
+            "index": 61,
+            "length": 65,
+            "rows": 6
+        },
+        {
+            "key": "!",
+            "value": "     \n @@@\n @@@\n !@!\n :.:\n    ",
+            "index": 62,
+            "length": 30,
+            "rows": 5
+        },
+        {
+            "key": "#",
+            "value": "     \n  @@@@@@@ \n !@@   !@@\n !@! @!@!@\n :!!      \n  :: :: : \n          ",
+            "index": 63,
+            "length": 71,
+            "rows": 6
+        },
+        {
+            "key": "$",
+            "value": "     \n  @@@ @@@ \n @@@!@@@@@\n  @!@ !@! \n !!!:!!!!:\n  ::  : : \n          ",
+            "index": 64,
+            "length": 71,
+            "rows": 6
+        },
+        {
+            "key": "%",
+            "value": "     \n  @@@@@ \n !@@!!  \n  !@@!! \n    !!:!\n  :.:.: \n        ",
+            "index": 65,
+            "length": 59,
+            "rows": 6
+        },
+        {
+            "key": "^",
+            "value": "     \n  @@  @@\n     @@!\n   @@!  \n !!:    \n :.  :: \n        ",
+            "index": 66,
+            "length": 59,
+            "rows": 6
+        },
+        {
+            "key": "&",
+            "value": "     \n   @@@@  \n @!@  !@@\n         ",
+            "index": 67,
+            "length": 35,
+            "rows": 3
+        },
+        {
+            "key": "*",
+            "value": "     \n  @@@@@   \n @@! @@@  \n  !@!@!   \n !!: !!!  \n  :.: : .:\n          ",
+            "index": 68,
+            "length": 71,
+            "rows": 6
+        },
+        {
+            "key": "[",
+            "value": "     \n  @@@  @@@ \n   @@!!@@  \n !!!@@!@!!!\n   !:::!!  \n  :.:  .:: \n           ",
+            "index": 69,
+            "length": 77,
+            "rows": 6
+        },
+        {
+            "key": "]",
+            "value": "     \n  @@@\n @@@ \n !@! \n !!! \n  : :\n     ",
+            "index": 70,
+            "length": 41,
+            "rows": 6
+        },
+        {
+            "key": ":",
+            "value": "     \n @@@ \n  @@@\n  !@!\n  !!!\n : : \n     ",
+            "index": 71,
+            "length": 41,
+            "rows": 6
+        },
+        {
+            "key": ";",
+            "value": "     \n @@@@@\n @@@  \n !!@  \n !!!  \n : :.:\n      ",
+            "index": 72,
+            "length": 47,
+            "rows": 6
+        },
+        {
+            "key": "<",
+            "value": "     \n  @@@@\n   @@@\n   @!!\n   !!!\n :.: :\n      ",
+            "index": 73,
+            "length": 47,
+            "rows": 6
+        },
+        {
+            "key": ">",
+            "value": "     \n  @@@\n  @@@\n !!@ \n  !!!\n  : :\n     ",
+            "index": 74,
+            "length": 41,
+            "rows": 6
+        },
+        {
+            "key": "?",
+            "value": "     \n  @@@ \n  @@@ \n   @!!\n  !!! \n  : : \n      ",
+            "index": 75,
+            "length": 47,
+            "rows": 6
+        },
+        {
+            "key": ",",
+            "value": "     \n @@\n !!\n   ",
+            "index": 76,
+            "length": 17,
+            "rows": 3
+        },
+        {
+            "key": ".",
+            "value": "     \n @@ @@ \n  @! @!\n       ",
+            "index": 77,
+            "length": 29,
+            "rows": 3
+        },
+        {
+            "key": "/",
+            "value": "     \n  @@\n  !!\n  ::\n .: ",
+            "index": 78,
+            "length": 25,
+            "rows": 4
+        },
+        {
+            "key": "-",
+            "value": "     \n  @@\n !@ \n    ",
+            "index": 79,
+            "length": 20,
+            "rows": 3
         }
     ]
 }
