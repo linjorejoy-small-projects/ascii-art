@@ -1,17 +1,10 @@
 from selenium import webdriver
-# from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
+import requests
 
-
-import sys
-
-
-def get_base_prefix_compat():
-    """Get base/real prefix, or sys.prefix if there is none."""
-    return getattr(sys, "base_prefix", None) or getattr(sys, "real_prefix", None) or sys.prefix
-
-def in_virtualenv():
-    return get_base_prefix_compat() != sys.prefix
-
-print(sys.prefix)
-
-# driver.get("<a href="https://www.flipkart.com/laptops/">https://www.flipkart.com/laptops/</a>~buyback-guarantee-on-laptops-/pr?sid=6bo%2Cb5g&amp;amp;amp;amp;amp;amp;amp;amp;amp;uniq")
+# driver = webdriver.Chrome("C:/Users/LINJO/Downloads/chromedriver")
+URL = 'https://manytools.org/facebook-twitter/ascii-banner-2/'
+page_request = requests.get(URL)
+soup = BeautifulSoup(page_request.content, 'html.parser')
+fonts = soup.find(id="Form_Font")
+print(fonts)
