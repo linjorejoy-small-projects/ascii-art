@@ -1,10 +1,12 @@
 # Import Libraries
-from PIL import Image, ImageOps
+from PIL import Image
 import numpy as np
 
 # Constants
-ASCII_IMAGE_WIDTH = 100
-PIXEL_ARRAY = ["#","@","O","=","+","o","^","*","!","."]
+ASCII_IMAGE_WIDTH = 512
+#PIXEL_ARRAY = ["\U0001f926","\U0001f44b","\U0001f648","\U0001f602","\U0001f44d"]
+PIXEL_ARRAY = ["M","H","O","J","a","o","i"," "]
+#PIXEL_ARRAY = ["#","@","O","=","+","o","^","*","!","."]
 LENGTH = len(PIXEL_ARRAY)
 RANGE = int(255/(LENGTH - 1))
 
@@ -44,13 +46,15 @@ def pixels_to_ascii_string(image):
     string = ""
     for i in range(height):
         for j in range(width):
-            string += PIXEL_ARRAY[imageArray[i,j]//RANGE]
+            string += (PIXEL_ARRAY[imageArray[i,j]//RANGE] + PIXEL_ARRAY[imageArray[i,j]//RANGE])
         string += "\n"
     return string
 
 
 def main():
-    loc = input("Enter the Location of image")
+    loc = input("Enter the Location of image : ")
+    file_name = input("file_name : ")
+    file_name += ".txt"
     try:
         image = Image.open(loc)
     except:
@@ -58,7 +62,7 @@ def main():
 
     toPrint = pixels_to_ascii_string(get_img(image))
 
-    with open("ascii-art3.txt", "w") as file:
+    with open(file_name, mode="w",encoding='utf8') as file:
         file.write(toPrint)
 
 
